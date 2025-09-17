@@ -1,7 +1,6 @@
 # calculator
 A simple calculator web app using HTML, CSS, JavaScript.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
